@@ -25,7 +25,7 @@
 - 🤖 [Developing and Integrating AI Models in a Social Robot](https://github.com/your-username/social-robot-ai)  
 - ⚡ [Brushless DC Motor Control using Arduino](https://github.com/your-username/arduino-bldc-control)  
 - 📊 [PID & Classical Controller Design for Dynamic Systems](https://github.com/your-username/pid-controller-design)  
-- ⚙️ [Gearbox Design & Development](hhttps://github.com/ReyhaneNikoobayan/Design-Gearbox)
+- ⚙️ [Gearbox Design & Development](https://github.com/ReyhaneNikoobayan/Design-Gearbox)
   
 ---
 
