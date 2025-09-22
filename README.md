@@ -1,6 +1,7 @@
 
 ## Hi there 👋 I'm Reyhane Nikoobayan!
 
+
 🔧 **Mechanical Engineering Student** at **Sharif University of Technology**  
 🤖 Researcher in **Robotics, Intelligent Control, and Deep Reinforcement Learning in Social and Cognitive Robotic Lab**  
 📄 My paper in **social robot** has been accepted in **ICSR 2025**  
@@ -35,7 +36,7 @@
 
 📧 Email: [ReyhaneNikoobayan@gmail.com](mailto:ReyhaneNikoobayan@gmail.com)  
 
-🚀 *Always open to collaborations, research opportunities, and new ideas!*  
+🚀 * I would be happy to collaborate in any research project in AI or Robotics*  
 
 
 
