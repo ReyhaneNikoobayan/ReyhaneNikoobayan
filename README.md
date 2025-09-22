@@ -36,7 +36,7 @@
 
 📧 Email: [ReyhaneNikoobayan@gmail.com](mailto:ReyhaneNikoobayan@gmail.com)  
 
-🚀 * I would be happy to collaborate in any research project in AI or Robotics*  
+🚀 **I would be happy to collaborate in any research project in AI or Robotics** 
 
 
 
