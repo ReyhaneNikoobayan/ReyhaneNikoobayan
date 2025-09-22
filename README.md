@@ -18,4 +18,4 @@
 
 ---
 
-📂 Check out my projects: [**GitHub Repositories**](#)
+
