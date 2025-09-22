@@ -1,16 +1,21 @@
 ## Hi there 👋
+# I'm Reyhane Nikoobayan!
 
-<!--
-**ReyhaneNikoobayan/ReyhaneNikoobayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Mechanical Engineering Student** at **Sharif University of Technology**  
+🔬 Researcher in **Robotics,Intelligent Control, and Deep Reinforcement Learning in Social and cognitive robotic lab**
+- 📄 Published in **Nature's HSSC & ICROM 2024 (Best Paper Award)**  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 Research & Projects
+
+- 🧠 [**DRL-Based Controllers and Planners for Collaborative Robots**](#)  
+- 🚁 [**Multirotor Path Planning & Control in Simulink**](#)  
+- ⚡ [**Brushless DC Motor Control using Arduino**](#)  
+- 🎛️ [**PID & Classical Controller Design for Dynamic Systems**](#)  
+- 📡 [**Physics-Informed AI for Sensor Fusion & Navigation**](#)  
+
+---
+
+📂 Check out my projects: [**GitHub Repositories**](#)
