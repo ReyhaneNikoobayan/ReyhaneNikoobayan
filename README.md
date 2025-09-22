@@ -1,10 +1,9 @@
 
 ## Hi there 👋 I'm Reyhane Nikoobayan!
 
-🔧 **Mechanical Engineering Student** at **Sharif University of Technology**  
+ 🔧 **Mechanical Engineering Student** at **Sharif University of Technology**  
  🤖 Researcher in **Robotics, Intelligent Control, and Deep Reinforcement Learning in Social and cognitive robotic lab**
- - 📄 My paper in **social robot** has been accepted in **ICSR 2025** 
-
+ 📄 My paper in **social robot** has been accepted in **ICSR 2025** 
 
 ---
 
