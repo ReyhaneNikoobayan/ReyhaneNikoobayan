@@ -12,7 +12,7 @@
 
 - 🧠 [**DRL-Based Controllers and Planners for Collaborative Robots**](https://github.com/your-username/drl-collaborative-robots)  
 - 🤖 [**Developing and Integrating AI Models in a Social Robot**](https://github.com/your-username/social-robot-ai)  
-- ⚡ [**Brushless DC Motor Control using Arduino**](https://github.com/Erfanmode/Brushless-DC-Motor-Control-using-Arduino?tab=readme-ov-file)  
+- ⚡ [**Brushless DC Motor Control using Arduino**](https://github.com/ReyhaneNikoobayan/Brushless-DC-Motor-Control-using-Arduino)  
 - 📊 [**PID & Classical Controller Design for Dynamic Systems**](https://github.com/ReyhaneNikoobayan/Ball-and-Beam-Control)  
 - ⚙️ [**Gearbox Design & Development**](https://github.com/ReyhaneNikoobayan/Design-Gearbox)
   
