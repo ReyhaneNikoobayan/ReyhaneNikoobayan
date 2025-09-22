@@ -18,4 +18,24 @@
 
 ---
 
+## 🛠️ Skills  
+
+- 💡 **Programming:** Python, MATLAB, C, Latex, SQl 
+- 🤖 **Robotics:** ROS2, Gazebo , Ubuntu 
+- 📊 **Simulation:** Simulink, MATLAB 
+- 🧩 **FrameWorks:** Pytorch, Tensorflow, GitHub, Ubuntu, Google Colab  
+- 🖥️ **CAD Design:** SolidWorks
+
+---
+
+## 📮 Connect with Me  
+
+[![LinkedIn](www.linkedin.com/in/reyhanenikoobayan)  
+[![Google Scholar](https://scholar.google.com/citations?view_op=new_articles&hl=en&imq=Reyhane+Nikoobayan#)  
+
+📧 Email: [ReyhaneNikoobayan@gmail.com](mailto:ReyhaneNikoobayan@gmail.com)  
+
+🚀 *Always open to collaborations, research opportunities, and new ideas!*
+
+
 
