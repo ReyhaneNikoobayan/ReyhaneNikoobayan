@@ -11,7 +11,7 @@
 ## 🔍 Research & Projects
 
 - 🧠 [**DRL-Based Controllers and Planners for Collaborative Robots**](#)  
-- 🚁 [**Integrating AI Models in a social robots**](#)  
+- 🚁 [**Developing and Integrating AI Models in a social robots**](#)  
 - ⚡ [**Brushless DC Motor Control using Arduino**](#)  
 - 🎛️ [**PID & Classical Controller Design for Dynamic Systems**](#)  
 - 📡 [**Physics-Informed AI for Sensor Fusion & Navigation**](#)  
