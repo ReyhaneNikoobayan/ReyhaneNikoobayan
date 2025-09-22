@@ -10,7 +10,7 @@
 
 ## 🔎 Research & Projects  
 
-- 🧠 [**DRL-Based Controllers and Planners for Collaborative Robots**](https://github.com/your-username/drl-collaborative-robots)  
+- 🧠 [**DRL-Based Controllers and Planners for Collaborative Robots**](https://github.com/ReyhaneNikoobayan/Turtlebot3_Cobot)  
 - 🤖 [**Developing and Integrating AI Models in a Social Robot**](https://github.com/ReyhaneNikoobayan/violence-Detection)  
 - ⚡ [**Brushless DC Motor Control using Arduino**](https://github.com/ReyhaneNikoobayan/Brushless-DC-Motor-Control-using-Arduino)  
 - 📊 [**PID & Classical Controller Design for Dynamic Systems**](https://github.com/ReyhaneNikoobayan/Ball-and-Beam-Control)  
