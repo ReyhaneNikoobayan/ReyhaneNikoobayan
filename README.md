@@ -30,12 +30,12 @@
 
 ## 📮 Connect with Me  
 
-[![LinkedIn](www.linkedin.com/in/reyhanenikoobayan)  
-[![Google Scholar](https://scholar.google.com/citations?view_op=new_articles&hl=en&imq=Reyhane+Nikoobayan#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyhanenikoobayan)  
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?view_op=new_articles&hl=en&imq=Reyhane+Nikoobayan#)  
 
 📧 Email: [ReyhaneNikoobayan@gmail.com](mailto:ReyhaneNikoobayan@gmail.com)  
 
-🚀 *Always open to collaborations, research opportunities, and new ideas!*
+🚀 *Always open to collaborations, research opportunities, and new ideas!*  
 
 
 
