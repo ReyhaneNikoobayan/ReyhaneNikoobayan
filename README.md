@@ -1,5 +1,5 @@
-## Hi there 👋
-# I'm Reyhane Nikoobayan!
+
+## Hi there 👋 I'm Reyhane Nikoobayan!
 
 🔧 **Mechanical Engineering Student** at **Sharif University of Technology**  
  🤖 Researcher in **Robotics, Intelligent Control, and Deep Reinforcement Learning in Social and cognitive robotic lab**
